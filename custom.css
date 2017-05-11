@@ -1,0 +1,18 @@
+body{
+    background: #D1A8EB
+}
+.container{
+    width: 500px;
+    height: 500px;
+    background: #F8F6F6;
+    border-radius: 10px;
+    padding-left: 100px;
+    padding-top: 50px;
+    position: relative;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+footer{
+    background: #806294;
+    text-align: center;
+}
